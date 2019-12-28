@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Well shit. Here we go Git.
